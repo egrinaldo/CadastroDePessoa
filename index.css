@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    background-color: #3475e5;
+}
+
+.nome_tela{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 3rem;
+    background-color: blue;
+
+}
+
+.nome_tela p{
+    font-size: 20px;
+    background: none;
+}
+
+.nome_tel{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background: #2d4775;
+    height: 2rem;
+}
+
+.nome_tel p{
+    background: none;
+}
+
+.nome_te{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 50px;
+    height: 6rem;
+    background: linear-gradient(to right #f7f7f7 #445a81 #04183a) ;
+    border: groove;
+
+}
+.nome_img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 3rem;
+    height: 6rem;
+
+}
+img{
+    display: flex;
+    background-size: cover;
+    width: 7rem;
+    height: 6rem;
+
+}
+.nome_te p{
+    gap: 50px;
+    background: none;
+}
